@@ -20,10 +20,12 @@ The analysis is done using **Python, Pandas, and Matplotlib**, focusing on real-
 
 ## 📂 Dataset
 
-The dataset is not included in this repository due to size limitations.
+The dataset is included in this repository in compressed (.zip) format due to GitHub size limitations.
 
-You can download the dataset from Kaggle:
-👉 https://www.kaggle.com/datasets
+### 📦 Files
+- `deliveries.zip` → Contains ball-by-ball data  
+- `matches.csv` → Match-level data 
+
 
 ---
 
@@ -111,11 +113,5 @@ IPL-Analysis/
 
 Jitesh Mhatre
 Aspiring Data Analyst
-
----
-
-## ⭐ Support
-
-If you found this project useful, give it a ⭐ on GitHub!
 
 ---
