@@ -91,7 +91,7 @@ IPL-Analysis/
 ## 🚀 How to Run
 
 1. Clone the repository:
-   git clone https://github.com/your-username/IPL-Data-Analysis.git
+   git clone https://github.com/Jitesh1410/IPL-Data-Analysis.git
 
 2. Install dependencies:
    pip install pandas numpy matplotlib
